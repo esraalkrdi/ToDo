@@ -13,7 +13,6 @@ C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.csproj.CoreComp
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cache
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cs
-C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.sourcelink.json
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\todolist\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.MvcTodoApp.Microsoft.AspNetCore.StaticWebAssets.props
